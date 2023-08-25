@@ -1,5 +1,4 @@
-Name: Maryam Ayub
-Student ID: 26100257
+
 
 Name: Mohammad Fatim Shoaib
 Student ID: 26100004
