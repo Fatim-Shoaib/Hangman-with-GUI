@@ -1,0 +1,6 @@
+compile codes
+1:
+g++ -c main.cpp -I"C:\Users\Fatim Shoaib\Documents\libraries\SFML-2.5.1-windows-gcc-7.3.0-mingw-64-bit\SFML-2.5.1\include"
+
+2:
+g++ main.o -o main -L"C:\Users\Fatim Shoaib\Documents\libraries\SFML-2.5.1-windows-gcc-7.3.0-mingw-32-bit\SFML-2.5.1\lib" -lsfml-graphics -lsfml-window -lsfml-system
